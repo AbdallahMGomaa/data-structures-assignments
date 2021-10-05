@@ -1,0 +1,313 @@
+*******************************
+*******************************
+Sequence Of Output:
+1. Command
+2. Expected
+3. Result
+4. Pass / Fail
+*******************************
+*******************************
+Test Results:
+*************
+*******************************
+1. wordCount
+1976 words
+1976 words
+
+    PASS
+*******************************
+*******************************
+2. wordCount wrong
+Incorrect number of arguments
+Incorrect number of arguments
+
+    PASS
+*******************************
+*******************************
+3. distWords
+845 distinct words
+845 distinct words
+
+    PASS
+*******************************
+*******************************
+4. distWords wrong
+Incorrect number of arguments
+Incorrect number of arguments
+
+    PASS
+*******************************
+*******************************
+5. charCount
+13924 characters
+13924 characters
+
+    PASS
+*******************************
+*******************************
+6. charCount wrong
+Incorrect number of arguments
+Incorrect number of arguments
+
+    PASS
+*******************************
+*******************************
+7. frequentWord
+Most frequent word is: mostrepeatedword
+Most frequent word is: mostrepeatedword
+
+    PASS
+*******************************
+*******************************
+8. frequentWord wrong
+Incorrect number of arguments
+Incorrect number of arguments
+
+    PASS
+*******************************
+*******************************
+9. countWord
+Incorrect number of arguments
+Incorrect number of arguments
+
+    PASS
+*******************************
+*******************************
+10. countWord that
+that is repeated 15 times
+that is repeated 15 times
+
+    PASS
+*******************************
+*******************************
+11. countWord fog
+fog is repeated 13 times
+fog is repeated 13 times
+
+    PASS
+*******************************
+*******************************
+12. countWord yes
+yes is repeated 12 times
+yes is repeated 12 times
+
+    PASS
+*******************************
+*******************************
+13. countWord order
+order is repeated 10 times
+order is repeated 10 times
+
+    PASS
+*******************************
+*******************************
+14. countWord were
+were is repeated 9 times
+were is repeated 9 times
+
+    PASS
+*******************************
+*******************************
+15. countWord stallman
+stallman is repeated 9 times
+stallman is repeated 9 times
+
+    PASS
+*******************************
+*******************************
+16. starting l
+l: 1 lab: 2 labor: 1 lamp: 1 language: 1 lasted: 2 lattice: 1 lays: 1 ld: 2 led: 1 leisure: 1 lessons: 1 letter: 2 letters: 8 liberties: 2 license: 2 licenses: 1 licensing: 1 lie: 1 like: 8 limping: 1 linebyline: 1 lines: 2 lippman: 1 long: 1 looks: 1 lope: 1 lopped: 1 lord: 1 lover: 1 ltle: 5 lulled: 1 lying: 1
+l: 1 lab: 2 labor: 1 lamp: 1 language: 1 lasted: 2 lattice: 1 lays: 1 ld: 2 led: 1 leisure: 1 lessons: 1 letter: 2 letters: 8 liberties: 2 license: 2 licenses: 1 licensing: 1 lie: 1 like: 8 limping: 1 linebyline: 1 lines: 2 lippman: 1 long: 1 looks: 1 lope: 1 lopped: 1 lord: 1 lover: 1 ltle: 5 lulled: 1 lying: 1
+
+    PASS
+*******************************
+*******************************
+17. starting se
+sea: 4 see: 2 seemed: 1 sees: 1 self: 1 serene: 1 series: 1 session: 4 set: 1 setting: 1 seven: 1
+sea: 4 see: 2 seemed: 1 sees: 1 self: 1 serene: 1 series: 1 session: 4 set: 1 setting: 1 seven: 1
+
+    PASS
+*******************************
+*******************************
+18. starting were
+were: 9
+were: 9
+
+    PASS
+*******************************
+*******************************
+19. containing is
+aisles: 1 bristles: 1 discourse: 1 discussing: 1 distribution: 1 english: 2 fishers: 1 fishingboatbobbing: 1 gibberish: 2 his: 14 invisible: 1 is: 13 kentish: 1 leisure: 1 missed: 1 misty: 1 moorish: 1 published: 1 scientists: 1 surmised: 1 surprising: 1 this: 6 visible: 1
+aisles: 1 bristles: 1 discourse: 1 discussing: 1 distribution: 1 english: 2 fishers: 1 fishingboatbobbing: 1 gibberish: 2 his: 14 invisible: 1 is: 13 kentish: 1 leisure: 1 missed: 1 misty: 1 moorish: 1 published: 1 scientists: 1 surmised: 1 surprising: 1 this: 6 visible: 1
+
+    PASS
+*******************************
+*******************************
+20. containing mm
+commands: 1 commercial: 1 commune: 1 communicate: 1 immortaly: 1 programmer: 1 programming: 2
+commands: 1 commercial: 1 commune: 1 communicate: 1 immortaly: 1 programmer: 1 programming: 2
+
+    PASS
+*******************************
+*******************************
+21. search am
+alameda: lines: 35
+among: lines: 33 37
+came: lines: 11 37
+dreaming: lines: 68
+dreams: lines: 68
+example: lines: 25 29
+jessamine: lines: 35
+lamp: lines: 35
+program: lines: 25
+programmer: lines: 23
+programming: lines: 3 15
+programs: lines: 23
+same: lines: 11 21 29 31
+scamander: lines: 37
+
+alameda: lines 35
+among: lines 33 37
+came: lines 11 37
+dreaming: lines 68
+dreams: lines 68
+example: lines 25 29
+jessamine: lines 35
+lamp: lines 35
+program: lines 25
+programmer: lines 23
+programming: lines 3 15
+programs: lines 23
+same: lines 11 21 29 31
+scamander: lines 37
+
+    PASS
+*******************************
+*******************************
+22. search no
+anomostrepeatedwordr: lines: 35
+honoured: lines: 37
+hypsenor: lines: 37
+ignored: lines: 21
+innocent: lines: 31
+innovation: lines: 19
+known: lines: 23
+no: lines: 17 37 44
+noble: lines: 37
+nonhackers: lines: 17
+nor: lines: 5 15
+normal: lines: 13
+not: lines: 23 37 39
+now: lines: 66
+snouting: lines: 66
+wetnosed: lines: 68
+
+anomostrepeatedwordr: lines 35
+honoured: lines 37
+hypsenor: lines 37
+ignored: lines 21
+innocent: lines 31
+innovation: lines 19
+known: lines 23
+no: lines 17 37 44
+noble: lines 37
+nonhackers: lines 17
+nor: lines 5 15
+normal: lines 13
+not: lines 23 37 39
+now: lines 66
+snouting: lines 66
+wetnosed: lines 68
+
+    PASS
+*******************************
+*******************************
+23. search xc
+excing: lines: 19
+
+excing: lines 19
+
+    PASS
+*******************************
+*******************************
+24. search io
+addion: lines: 11
+description: lines: 13
+distribution: lines: 29
+dolopion: lines: 37
+elections: lines: 31
+equation: lines: 21
+explosion: lines: 19
+foundation: lines: 9
+frustration: lines: 23
+furiously: lines: 37
+glorious: lines: 35
+innovation: lines: 19
+inviolate: lines: 31
+modifications: lines: 11
+operational: lines: 23
+pensioners: lines: 33 68
+pollutions: lines: 33
+professionals: lines: 13
+proportion: lines: 25 27
+publication: lines: 13
+ratification: lines: 31
+session: lines: 3 6 15
+solution: lines: 11
+suation: lines: 21
+validation: lines: 19
+version: lines: 9
+versions: lines: 11
+
+addion: lines 11
+description: lines 13
+distribution: lines 29
+dolopion: lines 37
+elections: lines 31
+equation: lines 21
+explosion: lines 19
+foundation: lines 9
+frustration: lines 23
+furiously: lines 37
+glorious: lines 35
+innovation: lines 19
+inviolate: lines 31
+modifications: lines 11
+operational: lines 23
+pensioners: lines 33 68
+pollutions: lines 33
+professionals: lines 13
+proportion: lines 25 27
+publication: lines 13
+ratification: lines 31
+session: lines 3 6 15
+solution:: lines 11
+suation: lines 21
+validation: lines 19
+version: lines 9
+versions: lines 11
+
+    PASS
+*******************************
+*******************************
+25. search pp
+apparent: lines: 31
+apprentice: lines: 33
+approach: lines: 19
+lippman: lines: 1
+lopped: lines: 37
+shipping: lines: 33
+skipper: lines: 33
+stopped: lines: 40
+
+apparent: lines 31
+apprentice: lines 33
+approach: lines 19
+lippman: lines 1
+lopped: lines 37
+shipping: lines 33
+skipper: lines 33
+stopped: lines 40
+
+    PASS
+*******************************

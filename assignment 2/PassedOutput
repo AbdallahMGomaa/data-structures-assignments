@@ -1,0 +1,2412 @@
+Command: Incorrect file
+
+Expected:
+File not found
+
+Generated:
+File not found
+
+----PASSED----
+_______________
+
+Command: Incorrect args for main
+
+Expected:
+Incorrect number of arguments
+
+Generated:
+Incorrect number of arguments
+
+----PASSED----
+_______________
+
+Command: starting x
+
+Expected:
+Word not found
+
+Generated:
+Word not found
+
+----PASSED----
+_______________
+
+Command: countWord i
+
+Expected:
+i is repeated 34 times
+
+Generated:
+i is repeated 34 times
+
+----PASSED----
+_______________
+
+Command: Charcount
+
+Expected:
+Undefined command
+
+Generated:
+Undefined command
+
+----PASSED----
+_______________
+
+Command: distWords wrong
+
+Expected:
+Incorrect number of arguments
+
+Generated:
+Incorrect number of arguments
+
+----PASSED----
+_______________
+
+Command: containing q
+
+Expected:
+equation: 1	frequency: 2	liquorice: 1	q: 1	quarrel: 1	quarter: 1	que: 1	queer: 1	quicker: 2	quietly: 1	quite: 2	raquel: 1	technique: 1
+
+Generated:
+equation: 1	frequency: 2	liquorice: 1	q: 1	quarrel: 1	quarter: 1	que: 1	queer: 1	quicker: 2	quietly: 1	quite: 2	raquel: 1	technique: 1
+
+----PASSED----
+_______________
+
+Command: starting joo
+
+Expected:
+Word not found
+
+Generated:
+Word not found
+
+----PASSED----
+_______________
+
+Command: starting
+
+Expected:
+Incorrect number of arguments
+
+Generated:
+Incorrect number of arguments
+
+----PASSED----
+_______________
+
+Command: countWord z
+
+Expected:
+z is repeated 0 times
+
+Generated:
+z is repeated 0 times
+
+----PASSED----
+_______________
+
+Command: frequentWord
+
+Expected:
+Most frequent word is: breathing janiffer thunder
+
+Generated:
+Most frequent word is: breathing janiffer thunder
+
+----PASSED----
+_______________
+
+Command: search ahmed atef
+
+Expected:
+Incorrect number of arguments
+
+Generated:
+Incorrect number of arguments
+
+----PASSED----
+_______________
+
+Command: CountWord
+
+Expected:
+Undefined command
+
+Generated:
+Undefined command
+
+----PASSED----
+_______________
+
+Command: call search
+
+Expected:
+Undefined command
+
+Generated:
+Undefined command
+
+----PASSED----
+_______________
+
+Command: starting iw
+
+Expected:
+Word not found
+
+Generated:
+Word not found
+
+----PASSED----
+_______________
+
+Command: countWord Startofile
+
+Expected:
+startofile is repeated 1 times
+
+Generated:
+startofile is repeated 1 times
+
+----PASSED----
+_______________
+
+Command: containing mm
+
+Expected:
+commands: 1	commercial: 1	commune: 1	communicate: 1	immortaly: 1	programmer: 1	programming: 2
+
+Generated:
+commands: 1	commercial: 1	commune: 1	communicate: 1	immortaly: 1	programmer: 1	programming: 2
+
+----PASSED----
+_______________
+
+Command: starting "
+
+Expected:
+": 3	"all: 1	"and: 1	"explain: 1	"i: 1
+
+Generated:
+": 3	"all: 1	"and: 1	"explain: 1	"i: 1
+
+----PASSED----
+_______________
+
+Command: read
+
+Expected:
+Undefined command
+
+Generated:
+Undefined command
+
+----PASSED----
+_______________
+
+Command: containing ght
+
+Expected:
+fighting: 2	heights: 1	might: 4	night: 6	onslaught: 1	ought: 1	rights: 1	taught: 2	thought: 4	tonight: 1
+
+Generated:
+fighting: 2	heights: 1	might: 4	night: 6	onslaught: 1	ought: 1	rights: 1	taught: 2	thought: 4	tonight: 1
+
+----PASSED----
+_______________
+
+Command: containing
+
+Expected:
+Incorrect number of arguments
+
+Generated:
+Incorrect number of arguments
+
+----PASSED----
+_______________
+
+Command: countWord one
+
+Expected:
+one is repeated 18 times
+
+Generated:
+one is repeated 18 times
+
+----PASSED----
+_______________
+
+Command: search Startofile
+
+Expected:
+startofile:	lines 1
+
+Generated:
+startofile:	lines 1
+
+----PASSED----
+_______________
+
+Command: containing z
+
+Expected:
+appetizing: 1	fizzy: 1	gazing: 1	materialized: 1	sizes: 2	tarzan: 1	weizenbaum: 1	weizenbaums: 1	wheezing: 1	zerogravy: 1	zzz: 3	zzzzzzz: 5
+
+Generated:
+appetizing: 1	fizzy: 1	gazing: 1	materialized: 1	sizes: 2	tarzan: 1	weizenbaum: 1	weizenbaums: 1	wheezing: 1	zerogravy: 1	zzz: 3	zzzzzzz: 5
+
+----PASSED----
+_______________
+
+Command: show list
+
+Expected:
+Undefined command
+
+Generated:
+Undefined command
+
+----PASSED----
+_______________
+
+Command: countWord s
+
+Expected:
+s is repeated 3 times
+
+Generated:
+s is repeated 3 times
+
+----PASSED----
+_______________
+
+Command: starting az
+
+Expected:
+Word not found
+
+Generated:
+Word not found
+
+----PASSED----
+_______________
+
+Command: starting xu
+
+Expected:
+Word not found
+
+Generated:
+Word not found
+
+----PASSED----
+_______________
+
+Command: search story
+
+Expected:
+story:	lines 13
+story-making:	lines 88
+
+Generated:
+story:	lines 13
+story-making:	lines 88
+
+----PASSED----
+_______________
+
+Command: starting Bale
+
+Expected:
+Word not found
+
+Generated:
+Word not found
+
+----PASSED----
+_______________
+
+Command: Wordcoun
+
+Expected:
+Undefined command
+
+Generated:
+Undefined command
+
+----PASSED----
+_______________
+
+Command: search .
+
+Expected:
+Word not found
+
+Generated:
+Word not found
+
+----PASSED----
+_______________
+
+Command: starting hh
+
+Expected:
+Word not found
+
+Generated:
+Word not found
+
+----PASSED----
+_______________
+
+Command: search xc
+
+Expected:
+excing:	lines 47
+excited:	lines 88
+
+Generated:
+excing:	lines 47
+excited:	lines 88
+
+----PASSED----
+_______________
+
+Command: containing is
+
+Expected:
+aisles: 1	bristles: 1	disclose: 1	discourse: 1	discussing: 1	distribution: 1	english: 2	fish: 4	fishers: 1	fishingboatbobbing: 1	gibberish: 2	his: 21	invisible: 1	is: 22	kentish: 1	leisure: 1	missed: 1	misty: 1	moorish: 1	persistent: 1	published: 1	punished: 1	risky: 1	scientists: 1	surmised: 1	surprising: 1	this: 11	visible: 1
+
+Generated:
+aisles: 1	bristles: 1	disclose: 1	discourse: 1	discussing: 1	distribution: 1	english: 2	fish: 4	fishers: 1	fishingboatbobbing: 1	gibberish: 2	his: 21	invisible: 1	is: 22	kentish: 1	leisure: 1	missed: 1	misty: 1	moorish: 1	persistent: 1	published: 1	punished: 1	risky: 1	scientists: 1	surmised: 1	surprising: 1	this: 11	visible: 1
+
+----PASSED----
+_______________
+
+Command: search
+
+Expected:
+Incorrect number of arguments
+
+Generated:
+Incorrect number of arguments
+
+----PASSED----
+_______________
+
+Command: countWord the
+
+Expected:
+the is repeated 51 times
+
+Generated:
+the is repeated 51 times
+
+----PASSED----
+_______________
+
+Command: starting dr
+
+Expected:
+drawbridge: 1	dreaming: 1	dreams: 3	dressmaker: 1	drew: 1	drinks: 1	driven: 1	drooping: 1	drove: 2	drunkard: 1
+
+Generated:
+drawbridge: 1	dreaming: 1	dreams: 3	dressmaker: 1	drew: 1	drinks: 1	driven: 1	drooping: 1	drove: 2	drunkard: 1
+
+----PASSED----
+_______________
+
+Command: starting u
+
+Expected:
+u: 1	ulysses: 7	unconstrained: 1	undeniable: 1	under: 3	undertaker: 1	underwrten: 1	universe: 2	universy: 1	unknown: 1	until: 1	up: 7	upon: 1	us: 4	use: 2	used: 1	users: 1
+
+Generated:
+u: 1	ulysses: 7	unconstrained: 1	undeniable: 1	under: 3	undertaker: 1	underwrten: 1	universe: 2	universy: 1	unknown: 1	until: 1	up: 7	upon: 1	us: 4	use: 2	used: 1	users: 1
+
+----PASSED----
+_______________
+
+Command: countWord ahmed ali
+
+Expected:
+Incorrect number of arguments
+
+Generated:
+Incorrect number of arguments
+
+----PASSED----
+_______________
+
+Command: countWord zzz
+
+Expected:
+zzz is repeated 3 times
+
+Generated:
+zzz is repeated 3 times
+
+----PASSED----
+_______________
+
+Command: searcH 20
+
+Expected:
+Undefined command
+
+Generated:
+Undefined command
+
+----PASSED----
+_______________
+
+Command: start please
+
+Expected:
+Undefined command
+
+Generated:
+Undefined command
+
+----PASSED----
+_______________
+
+Command: wordCount
+
+Expected:
+3585 words
+
+Generated:
+3585 words
+
+----PASSED----
+_______________
+
+Command: containing thunder
+
+Expected:
+thunder: 190	thundercats: 3	thundercats!: 5	thunderthunder: 6
+
+Generated:
+thunder: 190	thundercats: 3	thundercats!: 5	thunderthunder: 6
+
+----PASSED----
+_______________
+
+Command: countWord stallman
+
+Expected:
+stallman is repeated 9 times
+
+Generated:
+stallman is repeated 9 times
+
+----PASSED----
+_______________
+
+Command: containing كلمة
+
+Expected:
+Word not found
+
+Generated:
+Word not found
+
+----PASSED----
+_______________
+
+Command: DISTWORD
+
+Expected:
+Undefined command
+
+Generated:
+Undefined command
+
+----PASSED----
+_______________
+
+Command: starting a
+
+Expected:
+a: 67	abide: 1	abily: 1	about: 5	above: 1	according: 1	accumulating: 1	achaeans: 1	across: 1	actual: 1	actually: 1	add: 1	addion: 1	adjust: 1	adopt: 1	adults: 1	advantage: 1	affairs: 1	after: 8	aftereffects: 1	afternoon: 1	again: 2	against: 1	age: 1	ahead: 1	ai: 2	ain't: 2	aisles: 1	alameda: 1	algeciras: 1	all: 28	alleviate: 1	allowed: 1	almost: 1	also: 5	although: 1	always: 5	among: 4	an: 9	ancient: 1	and: 129	andalusian: 1	anger: 1	anojanifferr: 1	another: 3	anthrace: 1	any: 3	apparent: 1	appetizing: 1	apprentice: 1	approach: 1	arbors: 1	are: 12	arm: 1	arms: 1	arose: 1	around: 1	as: 21	ask: 1	asked: 3	asking: 1	associated: 2	astronaut: 1	at: 8	atmosphere: 1	atrneys: 1	atrophied: 1	away: 3	awful: 1
+
+Generated:
+a: 67	abide: 1	abily: 1	about: 5	above: 1	according: 1	accumulating: 1	achaeans: 1	across: 1	actual: 1	actually: 1	add: 1	addion: 1	adjust: 1	adopt: 1	adults: 1	advantage: 1	affairs: 1	after: 8	aftereffects: 1	afternoon: 1	again: 2	against: 1	age: 1	ahead: 1	ai: 2	ain't: 2	aisles: 1	alameda: 1	algeciras: 1	all: 28	alleviate: 1	allowed: 1	almost: 1	also: 5	although: 1	always: 5	among: 4	an: 9	ancient: 1	and: 129	andalusian: 1	anger: 1	anojanifferr: 1	another: 3	anthrace: 1	any: 3	apparent: 1	appetizing: 1	apprentice: 1	approach: 1	arbors: 1	are: 12	arm: 1	arms: 1	arose: 1	around: 1	as: 21	ask: 1	asked: 3	asking: 1	associated: 2	astronaut: 1	at: 8	atmosphere: 1	atrneys: 1	atrophied: 1	away: 3	awful: 1
+
+----PASSED----
+_______________
+
+Command: noCommadShouldMatch
+
+Expected:
+Undefined command
+
+Generated:
+Undefined command
+
+----PASSED----
+_______________
+
+Command: starting k
+
+Expected:
+kentish: 1	keyboard: 2	killed: 1	kindly: 1	king: 1	kingdom: 1	kings: 1	knew: 2	know: 1	known: 1	knows: 2	kong: 6
+
+Generated:
+kentish: 1	keyboard: 2	killed: 1	kindly: 1	king: 1	kingdom: 1	kings: 1	knew: 2	know: 1	known: 1	knows: 2	kong: 6
+
+----PASSED----
+_______________
+
+Command: starting z
+
+Expected:
+zerogravy: 1	zzz: 3	zzzzzzz: 5
+
+Generated:
+zerogravy: 1	zzz: 3	zzzzzzz: 5
+
+----PASSED----
+_______________
+
+Command: countWord h
+
+Expected:
+h is repeated 2 times
+
+Generated:
+h is repeated 2 times
+
+----PASSED----
+_______________
+
+Command: starting p
+
+Expected:
+page: 1	pairs: 1	parapets: 1	part: 1	passed: 3	paths: 1	paused: 1	pay: 1	peace: 1	peeping: 1	pensioners: 2	people: 6	perfume: 1	persistent: 1	person: 1	phalanxes: 1	phooey: 6	pinching: 1	pink: 1	pipe: 1	place: 1	plain: 1	play: 1	played: 1	plenty: 1	policeman: 1	pollutions: 1	pop: 1	pope: 1	poring: 1	posadas: 1	possibility: 2	possible: 3	postman: 1	power: 2	practices: 1	preacher: 1	present: 2	pretty: 5	priest: 1	print: 2	private: 1	privately: 1	probably: 1	problem: 2	problematic: 1	process: 1	produce: 1	produced: 1	produces: 2	professionals: 1	program: 3	programmer: 1	programming: 2	programs: 1	project: 2	proportion: 3	provided: 2	publican: 1	publication: 1	published: 1	pudding: 1	pump: 1	punched: 1	punished: 1	pure: 1	purposes: 2	put: 3
+
+Generated:
+page: 1	pairs: 1	parapets: 1	part: 1	passed: 3	paths: 1	paused: 1	pay: 1	peace: 1	peeping: 1	pensioners: 2	people: 6	perfume: 1	persistent: 1	person: 1	phalanxes: 1	phooey: 6	pinching: 1	pink: 1	pipe: 1	place: 1	plain: 1	play: 1	played: 1	plenty: 1	policeman: 1	pollutions: 1	pop: 1	pope: 1	poring: 1	posadas: 1	possibility: 2	possible: 3	postman: 1	power: 2	practices: 1	preacher: 1	present: 2	pretty: 5	priest: 1	print: 2	private: 1	privately: 1	probably: 1	problem: 2	problematic: 1	process: 1	produce: 1	produced: 1	produces: 2	professionals: 1	program: 3	programmer: 1	programming: 2	programs: 1	project: 2	proportion: 3	provided: 2	publican: 1	publication: 1	published: 1	pudding: 1	pump: 1	punched: 1	punished: 1	pure: 1	purposes: 2	put: 3
+
+----PASSED----
+_______________
+
+Command: search thank
+
+Expected:
+Word not found
+
+Generated:
+Word not found
+
+----PASSED----
+_______________
+
+Command: containing ,
+
+Expected:
+Word not found
+
+Generated:
+Word not found
+
+----PASSED----
+_______________
+
+Command: starting ej
+
+Expected:
+Word not found
+
+Generated:
+Word not found
+
+----PASSED----
+_______________
+
+Command: DistWords
+
+Expected:
+Undefined command
+
+Generated:
+Undefined command
+
+----PASSED----
+_______________
+
+Command: search
+
+Expected:
+Incorrect number of arguments
+
+Generated:
+Incorrect number of arguments
+
+----PASSED----
+_______________
+
+Command: WordCount
+
+Expected:
+Undefined command
+
+Generated:
+Undefined command
+
+----PASSED----
+_______________
+
+Command: Find thunder
+
+Expected:
+Undefined command
+
+Generated:
+Undefined command
+
+----PASSED----
+_______________
+
+Command: countWord c
+
+Expected:
+c is repeated 0 times
+
+Generated:
+c is repeated 0 times
+
+----PASSED----
+_______________
+
+Command: frequentWord atef
+
+Expected:
+Incorrect number of arguments
+
+Generated:
+Incorrect number of arguments
+
+----PASSED----
+_______________
+
+Command: start the
+
+Expected:
+Undefined command
+
+Generated:
+Undefined command
+
+----PASSED----
+_______________
+
+Command: frequentWord test
+
+Expected:
+Incorrect number of arguments
+
+Generated:
+Incorrect number of arguments
+
+----PASSED----
+_______________
+
+Command: countWord Janiffer
+
+Expected:
+janiffer is repeated 190 times
+
+Generated:
+janiffer is repeated 190 times
+
+----PASSED----
+_______________
+
+Command: containig joo
+
+Expected:
+Undefined command
+
+Generated:
+Undefined command
+
+----PASSED----
+_______________
+
+Command: starting bf
+
+Expected:
+Word not found
+
+Generated:
+Word not found
+
+----PASSED----
+_______________
+
+Command: search might
+
+Expected:
+might:	lines 4 8 82 101
+
+Generated:
+might:	lines 4 8 82 101
+
+----PASSED----
+_______________
+
+Command: Frequentword
+
+Expected:
+Undefined command
+
+Generated:
+Undefined command
+
+----PASSED----
+_______________
+
+Command: starting my
+
+Expected:
+my: 19
+
+Generated:
+my: 19
+
+----PASSED----
+_______________
+
+Command: search breathing
+
+Expected:
+breathing:	lines 1 73
+
+Generated:
+breathing:	lines 1 73
+
+----PASSED----
+_______________
+
+Command: countWord order
+
+Expected:
+order is repeated 10 times
+
+Generated:
+order is repeated 10 times
+
+----PASSED----
+_______________
+
+Command: search am
+
+Expected:
+alameda:	lines 55
+among:	lines 54 56
+came:	lines 43 56 77 80 97
+dreaming:	lines 72
+dreams:	lines 72 77 80
+example:	lines 50 52
+fame:	lines 30
+flame:	lines 97
+james:	lines 30
+jessamine:	lines 55
+lamp:	lines 55
+name:	lines 25 28 30
+program:	lines 50
+programmer:	lines 49
+programming:	lines 37 45
+programs:	lines 49
+same:	lines 43 48 52 53 82
+scamander:	lines 56
+
+Generated:
+alameda:	lines 55
+among:	lines 54 56
+came:	lines 43 56 77 80 97
+dreaming:	lines 72
+dreams:	lines 72 77 80
+example:	lines 50 52
+fame:	lines 30
+flame:	lines 97
+james:	lines 30
+jessamine:	lines 55
+lamp:	lines 55
+name:	lines 25 28 30
+program:	lines 50
+programmer:	lines 49
+programming:	lines 37 45
+programs:	lines 49
+same:	lines 43 48 52 53 82
+scamander:	lines 56
+
+----PASSED----
+_______________
+
+Command: starting or
+
+Expected:
+or: 13	order: 10	orders: 1	ordinary: 1	organplaying: 1	originally: 1
+
+Generated:
+or: 13	order: 10	orders: 1	ordinary: 1	organplaying: 1	originally: 1
+
+----PASSED----
+_______________
+
+Command: starting r
+
+Expected:
+r: 1	rabbs: 1	rage: 1	rain: 1	ranches: 1	random: 2	randomly: 1	range: 1	raquel: 1	rate: 1	ratification: 1	raw: 3	read: 1	readable: 1	ready: 2	really: 1	realm: 1	recalls: 2	reckoned: 1	reclaimed: 1	red: 1	regurgate: 1	remained: 1	remote: 1	rest: 1	result: 1	resulting: 1	results: 1	rigging: 1	rights: 1	rings: 1	risky: 1	river: 3	rivers: 1	roar: 1	role: 2	rolls: 1	ronda: 1	roof: 1	roofs: 1	room: 1	rose: 1	rosegardens: 1	rough: 1	round: 1	rout: 1	runs: 1	rushed: 1	rushing: 1
+
+Generated:
+r: 1	rabbs: 1	rage: 1	rain: 1	ranches: 1	random: 2	randomly: 1	range: 1	raquel: 1	rate: 1	ratification: 1	raw: 3	read: 1	readable: 1	ready: 2	really: 1	realm: 1	recalls: 2	reckoned: 1	reclaimed: 1	red: 1	regurgate: 1	remained: 1	remote: 1	rest: 1	result: 1	resulting: 1	results: 1	rigging: 1	rights: 1	rings: 1	risky: 1	river: 3	rivers: 1	roar: 1	role: 2	rolls: 1	ronda: 1	roof: 1	roofs: 1	room: 1	rose: 1	rosegardens: 1	rough: 1	round: 1	rout: 1	runs: 1	rushed: 1	rushing: 1
+
+----PASSED----
+_______________
+
+Command: countWord k
+
+Expected:
+k is repeated 0 times
+
+Generated:
+k is repeated 0 times
+
+----PASSED----
+_______________
+
+Command: containing -
+
+Expected:
+(hi-ya!): 1	-: 6	bye-bye: 1	fan-riffic!: 1	no-one: 1	self-made: 2	story-making: 1
+
+Generated:
+(hi-ya!): 1	-: 6	bye-bye: 1	fan-riffic!: 1	no-one: 1	self-made: 2	story-making: 1
+
+----PASSED----
+_______________
+
+Command: starting t
+
+Expected:
+table: 2	take: 6	taken: 1	takes: 1	talk: 2	tangible: 1	tarzan: 1	taught: 2	tearing: 1	technically: 1	technique: 1	teletype: 1	telling: 2	tendency: 1	tense: 1	test: 20	text: 11	textbooks: 1	than: 4	that: 37	that's: 2	thats: 1	the: 51	their: 1	them: 5	then: 2	there: 3	these: 1	they: 8	thing: 1	things: 3	think: 3	this: 11	those: 1	though: 3	thought: 4	throats: 1	through: 5	throughout: 2	thunder: 190	thundercats: 3	thundercats!: 5	thunderthunder: 6	thus: 2	tidy: 1	tiegs: 1	tiers: 1	time: 7	timeline: 1	timesharing: 1	to: 53	toes: 1	together: 1	tonight: 1	too: 2	took: 1	torrent: 2	tough: 1	toward: 1	town: 4	tradesmen: 1	tragedy: 1	train: 1	trains: 1	treacle: 1	tried: 1	triplets: 1	trojans: 2	trousseaux: 1	true: 1	truth: 4	try: 1	tune: 1	turbans: 1	two: 1	tydeus: 2	type: 2	typed: 3	tyranny: 1
+
+Generated:
+table: 2	take: 6	taken: 1	takes: 1	talk: 2	tangible: 1	tarzan: 1	taught: 2	tearing: 1	technically: 1	technique: 1	teletype: 1	telling: 2	tendency: 1	tense: 1	test: 20	text: 11	textbooks: 1	than: 4	that: 37	that's: 2	thats: 1	the: 51	their: 1	them: 5	then: 2	there: 3	these: 1	they: 8	thing: 1	things: 3	think: 3	this: 11	those: 1	though: 3	thought: 4	throats: 1	through: 5	throughout: 2	thunder: 190	thundercats: 3	thundercats!: 5	thunderthunder: 6	thus: 2	tidy: 1	tiegs: 1	tiers: 1	time: 7	timeline: 1	timesharing: 1	to: 53	toes: 1	together: 1	tonight: 1	too: 2	took: 1	torrent: 2	tough: 1	toward: 1	town: 4	tradesmen: 1	tragedy: 1	train: 1	trains: 1	treacle: 1	tried: 1	triplets: 1	trojans: 2	trousseaux: 1	true: 1	truth: 4	try: 1	tune: 1	turbans: 1	two: 1	tydeus: 2	type: 2	typed: 3	tyranny: 1
+
+----PASSED----
+_______________
+
+Command: countWord DoesntExist
+
+Expected:
+doesntexist is repeated 0 times
+
+Generated:
+doesntexist is repeated 0 times
+
+----PASSED----
+_______________
+
+Command: distwords
+
+Expected:
+Undefined command
+
+Generated:
+Undefined command
+
+----PASSED----
+_______________
+
+Command: containing 10
+
+Expected:
+10: 2	100: 2
+
+Generated:
+10: 2	100: 2
+
+----PASSED----
+_______________
+
+Command: starting tr
+
+Expected:
+tradesmen: 1	tragedy: 1	train: 1	trains: 1	treacle: 1	tried: 1	triplets: 1	trojans: 2	trousseaux: 1	true: 1	truth: 4	try: 1
+
+Generated:
+tradesmen: 1	tragedy: 1	train: 1	trains: 1	treacle: 1	tried: 1	triplets: 1	trojans: 2	trousseaux: 1	true: 1	truth: 4	try: 1
+
+----PASSED----
+_______________
+
+Command: containing "
+
+Expected:
+": 3	"all: 1	"and: 1	"explain: 1	"i: 1	cheat?": 1	me?": 1	not": 1
+
+Generated:
+": 3	"all: 1	"and: 1	"explain: 1	"i: 1	cheat?": 1	me?": 1	not": 1
+
+----PASSED----
+_______________
+
+Command: starting mf
+
+Expected:
+Word not found
+
+Generated:
+Word not found
+
+----PASSED----
+_______________
+
+Command: countWord v
+
+Expected:
+v is repeated 0 times
+
+Generated:
+v is repeated 0 times
+
+----PASSED----
+_______________
+
+Command: starting no
+
+Expected:
+no: 6	no-one: 1	noble: 1	nobody: 1	nonhackers: 2	nor: 2	normal: 1	not: 6	not": 1	noticing: 1	now: 1
+
+Generated:
+no: 6	no-one: 1	noble: 1	nobody: 1	nonhackers: 2	nor: 2	normal: 1	not: 6	not": 1	noticing: 1	now: 1
+
+----PASSED----
+_______________
+
+Command: wordCount ahmed
+
+Expected:
+Incorrect number of arguments
+
+Generated:
+Incorrect number of arguments
+
+----PASSED----
+_______________
+
+Command: starting wl
+
+Expected:
+Word not found
+
+Generated:
+Word not found
+
+----PASSED----
+_______________
+
+Command: countWord l
+
+Expected:
+l is repeated 1 times
+
+Generated:
+l is repeated 1 times
+
+----PASSED----
+_______________
+
+Command: starting kv
+
+Expected:
+Word not found
+
+Generated:
+Word not found
+
+----PASSED----
+_______________
+
+Command: starting l
+
+Expected:
+l: 1	lab: 2	labor: 1	ladies: 1	lady: 2	lamp: 1	lane: 1	language: 1	lasted: 2	lattice: 1	lays: 1	ld: 2	lead: 1	least: 1	leaves: 1	leaving: 1	led: 1	leisure: 1	lessons: 1	let: 1	letter: 2	letters: 8	liberties: 2	license: 2	licenses: 1	licensing: 1	lie: 1	life: 2	like: 13	limping: 1	line: 1	linebyline: 1	lines: 2	lippman: 1	liquorice: 1	little: 2	live: 1	long: 2	look: 1	looked: 1	looks: 1	loose: 2	lope: 1	lopped: 1	lord: 1	losing: 1	lost: 1	lot: 1	lovely: 1	lover: 1	ltle: 5	lulled: 1	lying: 1
+
+Generated:
+l: 1	lab: 2	labor: 1	ladies: 1	lady: 2	lamp: 1	lane: 1	language: 1	lasted: 2	lattice: 1	lays: 1	ld: 2	lead: 1	least: 1	leaves: 1	leaving: 1	led: 1	leisure: 1	lessons: 1	let: 1	letter: 2	letters: 8	liberties: 2	license: 2	licenses: 1	licensing: 1	lie: 1	life: 2	like: 13	limping: 1	line: 1	linebyline: 1	lines: 2	lippman: 1	liquorice: 1	little: 2	live: 1	long: 2	look: 1	looked: 1	looks: 1	loose: 2	lope: 1	lopped: 1	lord: 1	losing: 1	lost: 1	lot: 1	lovely: 1	lover: 1	ltle: 5	lulled: 1	lying: 1
+
+----PASSED----
+_______________
+
+Command: COUNTWORD Janiffer
+
+Expected:
+Undefined command
+
+Generated:
+Undefined command
+
+----PASSED----
+_______________
+
+Command: containing he
+
+Expected:
+ahead: 1	another: 3	atmosphere: 1	cheat: 1	cheat?": 1	cheaters: 1	check: 1	cheryl: 1	dashed: 1	everywhere: 1	fishers: 1	he: 30	he'd: 2	he's: 5	head: 1	heads: 1	hear: 2	hearing: 1	heart: 1	heaven: 1	hed: 1	heights: 1	heirs: 5	held: 2	helped: 1	helpful: 1	helping: 2	her: 6	herself: 2	hey: 4	hunched: 1	hushed: 1	marshes: 1	matched: 1	neher: 2	other: 1	others: 1	preacher: 1	published: 1	punched: 1	punished: 1	ranches: 1	rushed: 1	schoolteacher: 1	she: 2	she's: 4	the: 51	their: 1	them: 5	then: 2	there: 3	these: 1	they: 8	together: 1	watched: 1	whe: 1	wheezing: 1	whejanifferr: 1	when: 8	where: 6	winchester: 1
+
+Generated:
+ahead: 1	another: 3	atmosphere: 1	cheat: 1	cheat?": 1	cheaters: 1	check: 1	cheryl: 1	dashed: 1	everywhere: 1	fishers: 1	he: 30	he'd: 2	he's: 5	head: 1	heads: 1	hear: 2	hearing: 1	heart: 1	heaven: 1	hed: 1	heights: 1	heirs: 5	held: 2	helped: 1	helpful: 1	helping: 2	her: 6	herself: 2	hey: 4	hunched: 1	hushed: 1	marshes: 1	matched: 1	neher: 2	other: 1	others: 1	preacher: 1	published: 1	punched: 1	punished: 1	ranches: 1	rushed: 1	schoolteacher: 1	she: 2	she's: 4	the: 51	their: 1	them: 5	then: 2	there: 3	these: 1	they: 8	together: 1	watched: 1	whe: 1	wheezing: 1	whejanifferr: 1	when: 8	where: 6	winchester: 1
+
+----PASSED----
+_______________
+
+Command: search pp
+
+Expected:
+apparent:	lines 53
+appetizing:	lines 96
+apprentice:	lines 54
+approach:	lines 47
+happen:	lines 78
+happy:	lines 93 107
+lippman:	lines 36
+lopped:	lines 56
+opposite:	lines 93
+shipping:	lines 54
+skipper:	lines 54
+stopped:	lines 57 93
+
+Generated:
+apparent:	lines 53
+appetizing:	lines 96
+apprentice:	lines 54
+approach:	lines 47
+happen:	lines 78
+happy:	lines 93 107
+lippman:	lines 36
+lopped:	lines 56
+opposite:	lines 93
+shipping:	lines 54
+skipper:	lines 54
+stopped:	lines 57 93
+
+----PASSED----
+_______________
+
+Command: starting de
+
+Expected:
+dead: 1	death: 2	decide: 2	deck: 1	decorating: 1	decs: 1	deepdown: 1	deified: 1	delicacy: 2	dense: 1	depends: 1	derivative: 1	description: 1	destiny: 1	dew: 1
+
+Generated:
+dead: 1	death: 2	decide: 2	deck: 1	decorating: 1	decs: 1	deepdown: 1	deified: 1	delicacy: 2	dense: 1	depends: 1	derivative: 1	description: 1	destiny: 1	dew: 1
+
+----PASSED----
+_______________
+
+Command: starting mohammed salah
+
+Expected:
+Incorrect number of arguments
+
+Generated:
+Incorrect number of arguments
+
+----PASSED----
+_______________
+
+Command: countWord all
+
+Expected:
+all is repeated 28 times
+
+Generated:
+all is repeated 28 times
+
+----PASSED----
+_______________
+
+Command: countWord w
+
+Expected:
+w is repeated 0 times
+
+Generated:
+w is repeated 0 times
+
+----PASSED----
+_______________
+
+Command: starting ing
+
+Expected:
+Word not found
+
+Generated:
+Word not found
+
+----PASSED----
+_______________
+
+Command: serach know
+
+Expected:
+Undefined command
+
+Generated:
+Undefined command
+
+----PASSED----
+_______________
+
+Command: containing 1
+
+Expected:
+10: 2	100: 2	12: 1	14: 1	15: 1	16: 1	1962: 1
+
+Generated:
+10: 2	100: 2	12: 1	14: 1	15: 1	16: 1	1962: 1
+
+----PASSED----
+_______________
+
+Command: start tes
+
+Expected:
+Undefined command
+
+Generated:
+Undefined command
+
+----PASSED----
+_______________
+
+Command: starting th
+
+Expected:
+than: 4	that: 37	that's: 2	thats: 1	the: 51	their: 1	them: 5	then: 2	there: 3	these: 1	they: 8	thing: 1	things: 3	think: 3	this: 11	those: 1	though: 3	thought: 4	throats: 1	through: 5	throughout: 2	thunder: 190	thundercats: 3	thundercats!: 5	thunderthunder: 6	thus: 2
+
+Generated:
+than: 4	that: 37	that's: 2	thats: 1	the: 51	their: 1	them: 5	then: 2	there: 3	these: 1	they: 8	thing: 1	things: 3	think: 3	this: 11	those: 1	though: 3	thought: 4	throats: 1	through: 5	throughout: 2	thunder: 190	thundercats: 3	thundercats!: 5	thunderthunder: 6	thus: 2
+
+----PASSED----
+_______________
+
+Command: containing .
+
+Expected:
+Word not found
+
+Generated:
+Word not found
+
+----PASSED----
+_______________
+
+Command: containing ght inc
+
+Expected:
+Incorrect number of arguments
+
+Generated:
+Incorrect number of arguments
+
+----PASSED----
+_______________
+
+Command: starting j
+
+Expected:
+jack: 1	james: 1	janiffer: 190	janifferir: 6	janifferm: 3	janiffern: 3	janifferre: 3	janiffery: 5	japan: 1	jessamine: 1	jj: 1	jjed: 1	john: 1	jollyrogered: 1	jonathan: 2	jump: 1	just: 12	justice: 1
+
+Generated:
+jack: 1	james: 1	janiffer: 190	janifferir: 6	janifferm: 3	janiffern: 3	janifferre: 3	janiffery: 5	japan: 1	jessamine: 1	jj: 1	jjed: 1	john: 1	jollyrogered: 1	jonathan: 2	jump: 1	just: 12	justice: 1
+
+----PASSED----
+_______________
+
+Command: containing ing
+
+Expected:
+according: 1	accumulating: 1	appetizing: 1	asking: 1	beginning:: 1	being: 2	belonging: 1	breathing: 190	bringing: 1	bucking: 1	closing: 1	codifying: 1	consulting: 1	crashing: 1	creeping: 1	dancing: 1	decorating: 1	dingles): 1	discussing: 1	doing: 3	dreaming: 1	drooping: 1	during: 2	eating: 1	encouraging: 1	everything: 2	excing: 1	experiencing: 1	falling: 3	fighting: 2	fingers: 3	fishingboatbobbing: 1	flowing: 2	flying: 2	gazing: 1	glancing: 1	going: 4	hanging: 1	hearing: 1	helping: 2	hovering: 1	king: 1	kingdom: 1	kings: 1	leaving: 1	licensing: 1	limping: 1	losing: 1	lying: 1	meaninglessly: 1	morning: 1	mourning: 1	needling: 1	noticing: 1	organplaying: 1	peeping: 1	pinching: 1	poring: 1	programming: 2	pudding: 1	resulting: 1	rigging: 1	rings: 1	rushing: 1	setting: 1	sharing: 1	shipping: 1	shivering: 1	sing: 3	sleeping: 2	snouting: 1	soaring: 1	something: 3	spring: 1	staring: 2	starting: 1	stealing: 1	story-making: 1	streaking: 1	surprising: 1	swelling: 1	tearing: 1	telling: 2	thing: 1	things: 3	timesharing: 1	walking: 1	wanting: 1	warning: 1	wheezing: 1
+
+Generated:
+according: 1	accumulating: 1	appetizing: 1	asking: 1	beginning:: 1	being: 2	belonging: 1	breathing: 190	bringing: 1	bucking: 1	closing: 1	codifying: 1	consulting: 1	crashing: 1	creeping: 1	dancing: 1	decorating: 1	dingles): 1	discussing: 1	doing: 3	dreaming: 1	drooping: 1	during: 2	eating: 1	encouraging: 1	everything: 2	excing: 1	experiencing: 1	falling: 3	fighting: 2	fingers: 3	fishingboatbobbing: 1	flowing: 2	flying: 2	gazing: 1	glancing: 1	going: 4	hanging: 1	hearing: 1	helping: 2	hovering: 1	king: 1	kingdom: 1	kings: 1	leaving: 1	licensing: 1	limping: 1	losing: 1	lying: 1	meaninglessly: 1	morning: 1	mourning: 1	needling: 1	noticing: 1	organplaying: 1	peeping: 1	pinching: 1	poring: 1	programming: 2	pudding: 1	resulting: 1	rigging: 1	rings: 1	rushing: 1	setting: 1	sharing: 1	shipping: 1	shivering: 1	sing: 3	sleeping: 2	snouting: 1	soaring: 1	something: 3	spring: 1	staring: 2	starting: 1	stealing: 1	story-making: 1	streaking: 1	surprising: 1	swelling: 1	tearing: 1	telling: 2	thing: 1	things: 3	timesharing: 1	walking: 1	wanting: 1	warning: 1	wheezing: 1
+
+----PASSED----
+_______________
+
+Command: containing z
+
+Expected:
+appetizing: 1	fizzy: 1	gazing: 1	materialized: 1	sizes: 2	tarzan: 1	weizenbaum: 1	weizenbaums: 1	wheezing: 1	zerogravy: 1	zzz: 3	zzzzzzz: 5
+
+Generated:
+appetizing: 1	fizzy: 1	gazing: 1	materialized: 1	sizes: 2	tarzan: 1	weizenbaum: 1	weizenbaums: 1	wheezing: 1	zerogravy: 1	zzz: 3	zzzzzzz: 5
+
+----PASSED----
+_______________
+
+Command: countWord f
+
+Expected:
+f is repeated 0 times
+
+Generated:
+f is repeated 0 times
+
+----PASSED----
+_______________
+
+Command: containing 2
+
+Expected:
+12: 1	1962: 1	2: 3	2nd: 2
+
+Generated:
+12: 1	1962: 1	2: 3	2nd: 2
+
+----PASSED----
+_______________
+
+Command: countWord a
+
+Expected:
+a is repeated 67 times
+
+Generated:
+a is repeated 67 times
+
+----PASSED----
+_______________
+
+Command: containing all
+
+Expected:
+"all: 1	actually: 1	all: 28	alleviate: 1	allowed: 1	balloon: 3	balloons: 1	call: 1	especially: 2	eventually: 1	falling: 3	hall: 1	originally: 1	really: 1	recalls: 2	shall: 3	small: 4	smallest: 1	stallman: 9	stallmans: 2	technically: 1	virtually: 1	wall: 1	walls: 1
+
+Generated:
+"all: 1	actually: 1	all: 28	alleviate: 1	allowed: 1	balloon: 3	balloons: 1	call: 1	especially: 2	eventually: 1	falling: 3	hall: 1	originally: 1	really: 1	recalls: 2	shall: 3	small: 4	smallest: 1	stallman: 9	stallmans: 2	technically: 1	virtually: 1	wall: 1	walls: 1
+
+----PASSED----
+_______________
+
+Command: starting n
+
+Expected:
+name: 4	nap: 1	nearby: 1	need: 1	needed: 1	needling: 1	neher: 2	nejanifferr: 1	nervous: 1	never: 5	night: 6	no: 6	no-one: 1	noble: 1	nobody: 1	nonhackers: 2	nor: 2	normal: 1	not: 6	not": 1	noticing: 1	now: 1	number: 2	numerous: 1
+
+Generated:
+name: 4	nap: 1	nearby: 1	need: 1	needed: 1	needling: 1	neher: 2	nejanifferr: 1	nervous: 1	never: 5	night: 6	no: 6	no-one: 1	noble: 1	nobody: 1	nonhackers: 2	nor: 2	normal: 1	not: 6	not": 1	noticing: 1	now: 1	number: 2	numerous: 1
+
+----PASSED----
+_______________
+
+Command: showList
+
+Expected:
+Undefined command
+
+Generated:
+Undefined command
+
+----PASSED----
+_______________
+
+Command: charCount charCount
+
+Expected:
+Incorrect number of arguments
+
+Generated:
+Incorrect number of arguments
+
+----PASSED----
+_______________
+
+Command: countWord you
+
+Expected:
+you is repeated 12 times
+
+Generated:
+you is repeated 12 times
+
+----PASSED----
+_______________
+
+Command: starting zm
+
+Expected:
+Word not found
+
+Generated:
+Word not found
+
+----PASSED----
+_______________
+
+Command: containing j
+
+Expected:
+adjust: 1	anojanifferr: 1	brojanifferr: 1	jack: 1	james: 1	janiffer: 190	janifferir: 6	janifferm: 3	janiffern: 3	janifferre: 3	janiffery: 5	japan: 1	jessamine: 1	jj: 1	jjed: 1	john: 1	jollyrogered: 1	jonathan: 2	jump: 1	just: 12	justice: 1	nejanifferr: 1	ojanifferr: 1	ojanifferrs: 2	project: 2	trojans: 2	whejanifferr: 1
+
+Generated:
+adjust: 1	anojanifferr: 1	brojanifferr: 1	jack: 1	james: 1	janiffer: 190	janifferir: 6	janifferm: 3	janiffern: 3	janifferre: 3	janiffery: 5	japan: 1	jessamine: 1	jj: 1	jjed: 1	john: 1	jollyrogered: 1	jonathan: 2	jump: 1	just: 12	justice: 1	nejanifferr: 1	ojanifferr: 1	ojanifferrs: 2	project: 2	trojans: 2	whejanifferr: 1
+
+----PASSED----
+_______________
+
+Command: countWord thunder
+
+Expected:
+thunder is repeated 190 times
+
+Generated:
+thunder is repeated 190 times
+
+----PASSED----
+_______________
+
+Command: countWord
+
+Expected:
+Incorrect number of arguments
+
+Generated:
+Incorrect number of arguments
+
+----PASSED----
+_______________
+
+Command: starting to
+
+Expected:
+to: 53	toes: 1	together: 1	tonight: 1	too: 2	took: 1	torrent: 2	tough: 1	toward: 1	town: 4
+
+Generated:
+to: 53	toes: 1	together: 1	tonight: 1	too: 2	took: 1	torrent: 2	tough: 1	toward: 1	town: 4
+
+----PASSED----
+_______________
+
+Command: countWord .
+
+Expected:
+. is repeated 0 times
+
+Generated:
+. is repeated 0 times
+
+----PASSED----
+_______________
+
+Command: containing essam
+
+Expected:
+jessamine: 1
+
+Generated:
+jessamine: 1
+
+----PASSED----
+_______________
+
+Command: countWord m
+
+Expected:
+m is repeated 0 times
+
+Generated:
+m is repeated 0 times
+
+----PASSED----
+_______________
+
+Command: countWord fog
+
+Expected:
+fog is repeated 13 times
+
+Generated:
+fog is repeated 13 times
+
+----PASSED----
+_______________
+
+Command: xavi
+
+Expected:
+Undefined command
+
+Generated:
+Undefined command
+
+----PASSED----
+_______________
+
+Command: test
+
+Expected:
+Undefined command
+
+Generated:
+Undefined command
+
+----PASSED----
+_______________
+
+Command: countWord Endofile
+
+Expected:
+endofile is repeated 1 times
+
+Generated:
+endofile is repeated 1 times
+
+----PASSED----
+_______________
+
+Command: search no
+
+Expected:
+afternoon:	lines 54
+anojanifferr:	lines 55
+another:	lines 85 93
+honoured:	lines 56
+hypsenor:	lines 56
+ignored:	lines 48 78
+innocent:	lines 53
+innovation:	lines 47
+know:	lines 107
+known:	lines 49
+knows:	lines 25 28
+no:	lines 46 56 59
+no-one:	lines 9
+noble:	lines 56
+nobody:	lines 107
+nonhackers:	lines 46
+nor:	lines 39 45
+normal:	lines 44
+not:	lines 49 56 57 82 87
+not":	lines 96
+noticing:	lines 93
+now:	lines 71
+snouting:	lines 71
+snowflakes:	lines 32
+unknown:	lines 5
+wetnosed:	lines 72
+
+Generated:
+afternoon:	lines 54
+anojanifferr:	lines 55
+another:	lines 85 93
+honoured:	lines 56
+hypsenor:	lines 56
+ignored:	lines 48 78
+innocent:	lines 53
+innovation:	lines 47
+know:	lines 107
+known:	lines 49
+knows:	lines 25 28
+no:	lines 46 56 59
+no-one:	lines 9
+noble:	lines 56
+nobody:	lines 107
+nonhackers:	lines 46
+nor:	lines 39 45
+normal:	lines 44
+not:	lines 49 56 57 82 87
+not":	lines 96
+noticing:	lines 93
+now:	lines 71
+snouting:	lines 71
+snowflakes:	lines 32
+unknown:	lines 5
+wetnosed:	lines 72
+
+----PASSED----
+_______________
+
+Command: starting l
+
+Expected:
+l: 1	lab: 2	labor: 1	ladies: 1	lady: 2	lamp: 1	lane: 1	language: 1	lasted: 2	lattice: 1	lays: 1	ld: 2	lead: 1	least: 1	leaves: 1	leaving: 1	led: 1	leisure: 1	lessons: 1	let: 1	letter: 2	letters: 8	liberties: 2	license: 2	licenses: 1	licensing: 1	lie: 1	life: 2	like: 13	limping: 1	line: 1	linebyline: 1	lines: 2	lippman: 1	liquorice: 1	little: 2	live: 1	long: 2	look: 1	looked: 1	looks: 1	loose: 2	lope: 1	lopped: 1	lord: 1	losing: 1	lost: 1	lot: 1	lovely: 1	lover: 1	ltle: 5	lulled: 1	lying: 1
+
+Generated:
+l: 1	lab: 2	labor: 1	ladies: 1	lady: 2	lamp: 1	lane: 1	language: 1	lasted: 2	lattice: 1	lays: 1	ld: 2	lead: 1	least: 1	leaves: 1	leaving: 1	led: 1	leisure: 1	lessons: 1	let: 1	letter: 2	letters: 8	liberties: 2	license: 2	licenses: 1	licensing: 1	lie: 1	life: 2	like: 13	limping: 1	line: 1	linebyline: 1	lines: 2	lippman: 1	liquorice: 1	little: 2	live: 1	long: 2	look: 1	looked: 1	looks: 1	loose: 2	lope: 1	lopped: 1	lord: 1	losing: 1	lost: 1	lot: 1	lovely: 1	lover: 1	ltle: 5	lulled: 1	lying: 1
+
+----PASSED----
+_______________
+
+Command: countWord yes
+
+Expected:
+yes is repeated 13 times
+
+Generated:
+yes is repeated 13 times
+
+----PASSED----
+_______________
+
+Command: countWord all
+
+Expected:
+all is repeated 28 times
+
+Generated:
+all is repeated 28 times
+
+----PASSED----
+_______________
+
+Command: change word
+
+Expected:
+Undefined command
+
+Generated:
+Undefined command
+
+----PASSED----
+_______________
+
+Command: starting cb
+
+Expected:
+Word not found
+
+Generated:
+Word not found
+
+----PASSED----
+_______________
+
+Command: starting e
+
+Expected:
+e: 2	each: 1	early: 2	earth: 2	easier: 1	easily: 1	east: 1	eastward: 1	eastwood: 1	easy: 3	eating: 1	effect: 1	effects: 1	elections: 1	else: 1	emacs: 6	embank: 1	embrace: 1	emerge: 1	encouraging: 1	end: 3	endofile: 1	english: 2	enter: 1	entire: 3	entreaties: 1	entrepreneurs: 1	equation: 1	escape: 2	especially: 2	essential: 1	essex: 1	estate: 1	eterny: 1	euaemon: 1	eurypylus: 2	even: 6	eventually: 1	ever: 1	everybody: 2	everything: 2	everywhere: 1	evil: 2	example: 2	excing: 1	excited: 1	exhib: 1	expected: 1	experiencing: 1	explosion: 1	explosive: 1	eye: 2	eyes: 4
+
+Generated:
+e: 2	each: 1	early: 2	earth: 2	easier: 1	easily: 1	east: 1	eastward: 1	eastwood: 1	easy: 3	eating: 1	effect: 1	effects: 1	elections: 1	else: 1	emacs: 6	embank: 1	embrace: 1	emerge: 1	encouraging: 1	end: 3	endofile: 1	english: 2	enter: 1	entire: 3	entreaties: 1	entrepreneurs: 1	equation: 1	escape: 2	especially: 2	essential: 1	essex: 1	estate: 1	eterny: 1	euaemon: 1	eurypylus: 2	even: 6	eventually: 1	ever: 1	everybody: 2	everything: 2	everywhere: 1	evil: 2	example: 2	excing: 1	excited: 1	exhib: 1	expected: 1	experiencing: 1	explosion: 1	explosive: 1	eye: 2	eyes: 4
+
+----PASSED----
+_______________
+
+Command: containing k
+
+Expected:
+ask: 1	asked: 3	asking: 1	bibleblack: 1	black: 1	block: 2	break: 2	bucking: 1	check: 1	clock: 1	cocklewomen: 1	crowblack: 1	deck: 1	dressmaker: 1	drinks: 1	drunkard: 1	dykes: 1	embank: 1	hack: 2	hacker: 1	hackers: 1	jack: 1	kentish: 1	keyboard: 2	killed: 1	kindly: 1	king: 1	kingdom: 1	kings: 1	knew: 2	know: 1	known: 1	knows: 2	kong: 6	like: 13	look: 1	looked: 1	looks: 1	make: 3	makes: 1	mankind: 1	markets: 1	markov: 1	muskehounds: 2	nonhackers: 2	ok: 3	pink: 1	quicker: 2	reckoned: 1	risky: 1	shock: 1	skipper: 1	sky: 2	sloeblack: 1	snowflakes: 1	story-making: 1	streaking: 1	take: 6	taken: 1	takes: 1	talk: 2	textbooks: 1	think: 3	took: 1	undertaker: 1	unknown: 1	walking: 1	weakness: 1	weeks: 1	wicked: 1	work: 1	works: 2
+
+Generated:
+ask: 1	asked: 3	asking: 1	bibleblack: 1	black: 1	block: 2	break: 2	bucking: 1	check: 1	clock: 1	cocklewomen: 1	crowblack: 1	deck: 1	dressmaker: 1	drinks: 1	drunkard: 1	dykes: 1	embank: 1	hack: 2	hacker: 1	hackers: 1	jack: 1	kentish: 1	keyboard: 2	killed: 1	kindly: 1	king: 1	kingdom: 1	kings: 1	knew: 2	know: 1	known: 1	knows: 2	kong: 6	like: 13	look: 1	looked: 1	looks: 1	make: 3	makes: 1	mankind: 1	markets: 1	markov: 1	muskehounds: 2	nonhackers: 2	ok: 3	pink: 1	quicker: 2	reckoned: 1	risky: 1	shock: 1	skipper: 1	sky: 2	sloeblack: 1	snowflakes: 1	story-making: 1	streaking: 1	take: 6	taken: 1	takes: 1	talk: 2	textbooks: 1	think: 3	took: 1	undertaker: 1	unknown: 1	walking: 1	weakness: 1	weeks: 1	wicked: 1	work: 1	works: 2
+
+----PASSED----
+_______________
+
+Command: containing ahmed essam
+
+Expected:
+Incorrect number of arguments
+
+Generated:
+Incorrect number of arguments
+
+----PASSED----
+_______________
+
+Command: countWord test
+
+Expected:
+test is repeated 20 times
+
+Generated:
+test is repeated 20 times
+
+----PASSED----
+_______________
+
+Command: search كلمة
+
+Expected:
+Word not found
+
+Generated:
+Word not found
+
+----PASSED----
+_______________
+
+Command: starting l
+
+Expected:
+l: 1	lab: 2	labor: 1	ladies: 1	lady: 2	lamp: 1	lane: 1	language: 1	lasted: 2	lattice: 1	lays: 1	ld: 2	lead: 1	least: 1	leaves: 1	leaving: 1	led: 1	leisure: 1	lessons: 1	let: 1	letter: 2	letters: 8	liberties: 2	license: 2	licenses: 1	licensing: 1	lie: 1	life: 2	like: 13	limping: 1	line: 1	linebyline: 1	lines: 2	lippman: 1	liquorice: 1	little: 2	live: 1	long: 2	look: 1	looked: 1	looks: 1	loose: 2	lope: 1	lopped: 1	lord: 1	losing: 1	lost: 1	lot: 1	lovely: 1	lover: 1	ltle: 5	lulled: 1	lying: 1
+
+Generated:
+l: 1	lab: 2	labor: 1	ladies: 1	lady: 2	lamp: 1	lane: 1	language: 1	lasted: 2	lattice: 1	lays: 1	ld: 2	lead: 1	least: 1	leaves: 1	leaving: 1	led: 1	leisure: 1	lessons: 1	let: 1	letter: 2	letters: 8	liberties: 2	license: 2	licenses: 1	licensing: 1	lie: 1	life: 2	like: 13	limping: 1	line: 1	linebyline: 1	lines: 2	lippman: 1	liquorice: 1	little: 2	live: 1	long: 2	look: 1	looked: 1	looks: 1	loose: 2	lope: 1	lopped: 1	lord: 1	losing: 1	lost: 1	lot: 1	lovely: 1	lover: 1	ltle: 5	lulled: 1	lying: 1
+
+----PASSED----
+_______________
+
+Command: start
+
+Expected:
+Undefined command
+
+Generated:
+Undefined command
+
+----PASSED----
+_______________
+
+Command: countWord that
+
+Expected:
+that is repeated 37 times
+
+Generated:
+that is repeated 37 times
+
+----PASSED----
+_______________
+
+Command: starting se
+
+Expected:
+sea: 5	search: 1	see: 4	seem: 1	seemed: 2	seen: 2	sees: 1	self: 1	self-made: 2	sense: 1	serene: 1	series: 1	serve: 1	session: 4	set: 1	setting: 1	seven: 1
+
+Generated:
+sea: 5	search: 1	see: 4	seem: 1	seemed: 2	seen: 2	sees: 1	self: 1	self-made: 2	sense: 1	serene: 1	series: 1	serve: 1	session: 4	set: 1	setting: 1	seven: 1
+
+----PASSED----
+_______________
+
+Command: search number
+
+Expected:
+number:	lines 33 35
+
+Generated:
+number:	lines 33 35
+
+----PASSED----
+_______________
+
+Command: SearcH and
+
+Expected:
+Undefined command
+
+Generated:
+Undefined command
+
+----PASSED----
+_______________
+
+Command: starting qe
+
+Expected:
+Word not found
+
+Generated:
+Word not found
+
+----PASSED----
+_______________
+
+Command: starting jh
+
+Expected:
+Word not found
+
+Generated:
+Word not found
+
+----PASSED----
+_______________
+
+Command: countWord o
+
+Expected:
+o is repeated 3 times
+
+Generated:
+o is repeated 3 times
+
+----PASSED----
+_______________
+
+Command: starting ur
+
+Expected:
+Word not found
+
+Generated:
+Word not found
+
+----PASSED----
+_______________
+
+Command: frequentWord wrong
+
+Expected:
+Incorrect number of arguments
+
+Generated:
+Incorrect number of arguments
+
+----PASSED----
+_______________
+
+Command: random 10 20 30 40
+
+Expected:
+Undefined command
+
+Generated:
+Undefined command
+
+----PASSED----
+_______________
+
+Command: CharCount
+
+Expected:
+Undefined command
+
+Generated:
+Undefined command
+
+----PASSED----
+_______________
+
+Command: countWord n
+
+Expected:
+n is repeated 0 times
+
+Generated:
+n is repeated 0 times
+
+----PASSED----
+_______________
+
+Command: starting ge
+
+Expected:
+generate: 1	generated: 1	geraniums: 1	get: 2	gets: 2
+
+Generated:
+generate: 1	generated: 1	geraniums: 1	get: 2	gets: 2
+
+----PASSED----
+_______________
+
+Command: Search Endofile
+
+Expected:
+Undefined command
+
+Generated:
+Undefined command
+
+----PASSED----
+_______________
+
+Command: starting rn
+
+Expected:
+Word not found
+
+Generated:
+Word not found
+
+----PASSED----
+_______________
+
+Command: starting b
+
+Expected:
+b: 1	babel: 1	babies: 1	balloon: 3	balloons: 1	barges: 1	barnaby: 2	barons:: 1	barrier: 1	based: 2	battle: 1	bay: 1	be: 20	bear's: 2	beautiful: 1	because: 2	bedded: 1	been: 6	before: 3	beforehand: 1	began: 3	begin: 1	beginning:: 1	being: 2	belief: 1	belonging: 1	between: 2	bibleblack: 1	big: 2	birds: 1	bit: 1	black: 1	blind: 2	block: 2	bloody: 1	blown: 1	blue: 2	boat: 1	boats: 1	body: 1	bolt: 1	boss: 2	both: 5	bowl: 1	boy: 1	boys: 1	break: 2	breasts: 1	breathing: 190	bridesmaided: 1	bridges: 1	bringing: 1	bristles: 1	brojanifferr: 1	bucking: 1	bum: 1	burned: 1	burst: 1	businesses: 1	but: 20	by: 15	bye-bye: 1	byres: 1
+
+Generated:
+b: 1	babel: 1	babies: 1	balloon: 3	balloons: 1	barges: 1	barnaby: 2	barons:: 1	barrier: 1	based: 2	battle: 1	bay: 1	be: 20	bear's: 2	beautiful: 1	because: 2	bedded: 1	been: 6	before: 3	beforehand: 1	began: 3	begin: 1	beginning:: 1	being: 2	belief: 1	belonging: 1	between: 2	bibleblack: 1	big: 2	birds: 1	bit: 1	black: 1	blind: 2	block: 2	bloody: 1	blown: 1	blue: 2	boat: 1	boats: 1	body: 1	bolt: 1	boss: 2	both: 5	bowl: 1	boy: 1	boys: 1	break: 2	breasts: 1	breathing: 190	bridesmaided: 1	bridges: 1	bringing: 1	bristles: 1	brojanifferr: 1	bucking: 1	bum: 1	burned: 1	burst: 1	businesses: 1	but: 20	by: 15	bye-bye: 1	byres: 1
+
+----PASSED----
+_______________
+
+Command: countWord y
+
+Expected:
+y is repeated 0 times
+
+Generated:
+y is repeated 0 times
+
+----PASSED----
+_______________
+
+Command: countWord x
+
+Expected:
+x is repeated 0 times
+
+Generated:
+x is repeated 0 times
+
+----PASSED----
+_______________
+
+Command: countWord d
+
+Expected:
+d is repeated 0 times
+
+Generated:
+d is repeated 0 times
+
+----PASSED----
+_______________
+
+Command:  countWord   example   
+
+Expected:
+example is repeated 2 times
+
+Generated:
+example is repeated 2 times
+
+----PASSED----
+_______________
+
+Command: 	countWord example
+
+Expected:
+example is repeated 2 times
+
+Generated:
+example is repeated 2 times
+
+----PASSED----
+_______________
+
+Command: charCount atef
+
+Expected:
+Incorrect number of arguments
+
+Generated:
+Incorrect number of arguments
+
+----PASSED----
+_______________
+
+Command: serach mill
+
+Expected:
+Undefined command
+
+Generated:
+Undefined command
+
+----PASSED----
+_______________
+
+Command: countWord g
+
+Expected:
+g is repeated 0 times
+
+Generated:
+g is repeated 0 times
+
+----PASSED----
+_______________
+
+Command: starting bo
+
+Expected:
+boat: 1	boats: 1	body: 1	bolt: 1	boss: 2	both: 5	bowl: 1	boy: 1	boys: 1
+
+Generated:
+boat: 1	boats: 1	body: 1	bolt: 1	boss: 2	both: 5	bowl: 1	boy: 1	boys: 1
+
+----PASSED----
+_______________
+
+Command: containingght
+
+Expected:
+Undefined command
+
+Generated:
+Undefined command
+
+----PASSED----
+_______________
+
+Command: countWord j
+
+Expected:
+j is repeated 0 times
+
+Generated:
+j is repeated 0 times
+
+----PASSED----
+_______________
+
+Command: countWord q
+
+Expected:
+q is repeated 1 times
+
+Generated:
+q is repeated 1 times
+
+----PASSED----
+_______________
+
+Command: countWord middle
+
+Expected:
+middle is repeated 3 times
+
+Generated:
+middle is repeated 3 times
+
+----PASSED----
+_______________
+
+Command: countWord example
+
+Expected:
+example is repeated 2 times
+
+Generated:
+example is repeated 2 times
+
+----PASSED----
+_______________
+
+Command: countWord e
+
+Expected:
+e is repeated 2 times
+
+Generated:
+e is repeated 2 times
+
+----PASSED----
+_______________
+
+Command: starting pq
+
+Expected:
+Word not found
+
+Generated:
+Word not found
+
+----PASSED----
+_______________
+
+Command: distWords number
+
+Expected:
+Incorrect number of arguments
+
+Generated:
+Incorrect number of arguments
+
+----PASSED----
+_______________
+
+Command: starting h
+
+Expected:
+h: 2	habit: 1	hack: 2	hacker: 1	hackers: 1	had: 18	hair: 1	half: 1	hall: 1	hand: 3	handsome: 1	hanging: 1	happen: 1	happy: 2	hard: 1	hart: 2	harvard: 1	has: 6	haste: 1	hatch: 2	have: 7	hay: 2	he: 30	he'd: 2	he's: 5	head: 1	heads: 1	hear: 2	hearing: 1	heart: 1	heaven: 1	hed: 1	heights: 1	heirs: 5	held: 2	helped: 1	helpful: 1	helping: 2	her: 6	herself: 2	hey: 4	hid: 1	high: 6	him: 9	himself: 2	hire: 1	hired: 1	his: 21	holes: 1	honest: 1	hong: 6	honoured: 1	hope: 1	hopes: 2	horses: 2	hours: 2	house: 2	houses: 2	hovering: 1	how: 6	however: 2	human: 2	hunched: 1	hundred: 1	hundreds: 1	hush: 1	hushed: 1	hypsenor: 1
+
+Generated:
+h: 2	habit: 1	hack: 2	hacker: 1	hackers: 1	had: 18	hair: 1	half: 1	hall: 1	hand: 3	handsome: 1	hanging: 1	happen: 1	happy: 2	hard: 1	hart: 2	harvard: 1	has: 6	haste: 1	hatch: 2	have: 7	hay: 2	he: 30	he'd: 2	he's: 5	head: 1	heads: 1	hear: 2	hearing: 1	heart: 1	heaven: 1	hed: 1	heights: 1	heirs: 5	held: 2	helped: 1	helpful: 1	helping: 2	her: 6	herself: 2	hey: 4	hid: 1	high: 6	him: 9	himself: 2	hire: 1	hired: 1	his: 21	holes: 1	honest: 1	hong: 6	honoured: 1	hope: 1	hopes: 2	horses: 2	hours: 2	house: 2	houses: 2	hovering: 1	how: 6	however: 2	human: 2	hunched: 1	hundred: 1	hundreds: 1	hush: 1	hushed: 1	hypsenor: 1
+
+----PASSED----
+_______________
+
+Command: countWord b
+
+Expected:
+b is repeated 1 times
+
+Generated:
+b is repeated 1 times
+
+----PASSED----
+_______________
+
+Command: enter
+
+Expected:
+Undefined command
+
+Generated:
+Undefined command
+
+----PASSED----
+_______________
+
+Command: starting v
+
+Expected:
+validation: 1	variety: 1	velvet: 1	version: 1	versions: 1	very: 1	view: 1	vine: 1	vineyards: 1	virtually: 1	visible: 1
+
+Generated:
+validation: 1	variety: 1	velvet: 1	version: 1	versions: 1	very: 1	view: 1	vine: 1	vineyards: 1	virtually: 1	visible: 1
+
+----PASSED----
+_______________
+
+Command: starting AmY
+
+Expected:
+Word not found
+
+Generated:
+Word not found
+
+----PASSED----
+_______________
+
+Command: ordcount
+
+Expected:
+Undefined command
+
+Generated:
+Undefined command
+
+----PASSED----
+_______________
+
+Command: countWord ,
+
+Expected:
+, is repeated 0 times
+
+Generated:
+, is repeated 0 times
+
+----PASSED----
+_______________
+
+Command: starting vu
+
+Expected:
+Word not found
+
+Generated:
+Word not found
+
+----PASSED----
+_______________
+
+Command: starting q
+
+Expected:
+q: 1	quarrel: 1	quarter: 1	que: 1	queer: 1	quicker: 2	quietly: 1	quite: 2
+
+Generated:
+q: 1	quarrel: 1	quarter: 1	que: 1	queer: 1	quicker: 2	quietly: 1	quite: 2
+
+----PASSED----
+_______________
+
+Command: starting yl
+
+Expected:
+Word not found
+
+Generated:
+Word not found
+
+----PASSED----
+_______________
+
+Command: countWord thunder
+
+Expected:
+thunder is repeated 190 times
+
+Generated:
+thunder is repeated 190 times
+
+----PASSED----
+_______________
+
+Command: countWord never
+
+Expected:
+never is repeated 5 times
+
+Generated:
+never is repeated 5 times
+
+----PASSED----
+_______________
+
+Command: distWords atef
+
+Expected:
+Incorrect number of arguments
+
+Generated:
+Incorrect number of arguments
+
+----PASSED----
+_______________
+
+Command: Print Hello
+
+Expected:
+Undefined command
+
+Generated:
+Undefined command
+
+----PASSED----
+_______________
+
+Command: insert new word
+
+Expected:
+Undefined command
+
+Generated:
+Undefined command
+
+----PASSED----
+_______________
+
+Command: countWord super
+
+Expected:
+super is repeated 2 times
+
+Generated:
+super is repeated 2 times
+
+----PASSED----
+_______________
+
+Command: countWord breathing
+
+Expected:
+breathing is repeated 190 times
+
+Generated:
+breathing is repeated 190 times
+
+----PASSED----
+_______________
+
+Command: countWord r
+
+Expected:
+r is repeated 1 times
+
+Generated:
+r is repeated 1 times
+
+----PASSED----
+_______________
+
+Command: distWords distWords
+
+Expected:
+Incorrect number of arguments
+
+Generated:
+Incorrect number of arguments
+
+----PASSED----
+_______________
+
+Command: containing "
+
+Expected:
+": 3	"all: 1	"and: 1	"explain: 1	"i: 1	cheat?": 1	me?": 1	not": 1
+
+Generated:
+": 3	"all: 1	"and: 1	"explain: 1	"i: 1	cheat?": 1	me?": 1	not": 1
+
+----PASSED----
+_______________
+
+Command: containing magic
+
+Expected:
+magic: 1
+
+Generated:
+magic: 1
+
+----PASSED----
+_______________
+
+Command: countWord were
+
+Expected:
+were is repeated 11 times
+
+Generated:
+were is repeated 11 times
+
+----PASSED----
+_______________
+
+Command: countWord p
+
+Expected:
+p is repeated 0 times
+
+Generated:
+p is repeated 0 times
+
+----PASSED----
+_______________
+
+Command: Search
+
+Expected:
+Undefined command
+
+Generated:
+Undefined command
+
+----PASSED----
+_______________
+
+Command: frequentWord
+
+Expected:
+Most frequent word is: breathing janiffer thunder
+
+Generated:
+Most frequent word is: breathing janiffer thunder
+
+----PASSED----
+_______________
+
+Command: Starting
+
+Expected:
+Undefined command
+
+Generated:
+Undefined command
+
+----PASSED----
+_______________
+
+Command: starting se
+
+Expected:
+sea: 5	search: 1	see: 4	seem: 1	seemed: 2	seen: 2	sees: 1	self: 1	self-made: 2	sense: 1	serene: 1	series: 1	serve: 1	session: 4	set: 1	setting: 1	seven: 1
+
+Generated:
+sea: 5	search: 1	see: 4	seem: 1	seemed: 2	seen: 2	sees: 1	self: 1	self-made: 2	sense: 1	serene: 1	series: 1	serve: 1	session: 4	set: 1	setting: 1	seven: 1
+
+----PASSED----
+_______________
+
+Command: countWord u
+
+Expected:
+u is repeated 1 times
+
+Generated:
+u is repeated 1 times
+
+----PASSED----
+_______________
+
+Command: starting were
+
+Expected:
+were: 11
+
+Generated:
+were: 11
+
+----PASSED----
+_______________
+
+Command: charCount wrong
+
+Expected:
+Incorrect number of arguments
+
+Generated:
+Incorrect number of arguments
+
+----PASSED----
+_______________
+
+Command: search galaxies
+
+Expected:
+galaxies:	lines 6
+
+Generated:
+galaxies:	lines 6
+
+----PASSED----
+_______________
+
+Command: Containing
+
+Expected:
+Undefined command
+
+Generated:
+Undefined command
+
+----PASSED----
+_______________
+
+Command: containing x
+
+Expected:
+"explain: 1	essex: 1	example: 2	excing: 1	excited: 1	exhib: 1	expected: 1	experiencing: 1	explosion: 1	explosive: 1	galaxies: 1	max: 2	overcomplexy: 1	phalanxes: 1	text: 11	textbooks: 1	trousseaux: 1
+
+Generated:
+"explain: 1	essex: 1	example: 2	excing: 1	excited: 1	exhib: 1	expected: 1	experiencing: 1	explosion: 1	explosive: 1	galaxies: 1	max: 2	overcomplexy: 1	phalanxes: 1	text: 11	textbooks: 1	trousseaux: 1
+
+----PASSED----
+_______________
+
+Command: countWord t
+
+Expected:
+t is repeated 0 times
+
+Generated:
+t is repeated 0 times
+
+----PASSED----
+_______________
+
+PASSED: 209
+
+FAILED: 41

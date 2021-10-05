@@ -1,0 +1,14 @@
+1- copy/move your boject file of the project to the script folder.
+
+2- Open the terminal and change directory to script folder.
+
+3- Type:
+	./a2tester
+
+-if there is a problem try this
+chmod +x a2tester
+./a2tester
+
+3- enter project name (e.g "a2").
+
+- This Script only works on Linux OS.

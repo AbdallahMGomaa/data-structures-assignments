@@ -1,0 +1,14 @@
+- To run the script for the **first** time:
+1. Open the terminal and change directory to Debug Folder of your project
+2. Type: 
+	chmod +x script.sh
+3. Type:
+	./script.sh
+
+- To run the script again Type this line only:
+	./script.sh
+
+- The Script only works on Linux OS.
+- Make sure that the content of the .zip file is extracted to your DEBUG folder.
+(i.e. the four files inside the .zip folder should be located beside your project in Debug folder) 
+- It's very possible that the script isn't 100% correct so please check "Test Results" file after every test.
